@@ -1,4 +1,4 @@
-#the originary order of tab is MANDATORY
+#the originary order of tab was used
 
 import pandas as pd
 import os
